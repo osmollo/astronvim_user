@@ -1,4 +1,4 @@
 return {
-    "kyazdani42/nvim-web-devicons",
+    "kdheepak/lazygit.nvim",
     -- event = "VeryLazy",
 }
