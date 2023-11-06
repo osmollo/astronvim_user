@@ -17,5 +17,6 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.yaml" },
-  -- 
+  { import = "astrocommunity.utility.noice-nvim"},
+  { import = "astrocommunity.editing-support.rainbow-delimiters-nvim"},
 }
