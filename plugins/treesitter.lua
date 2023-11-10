@@ -35,7 +35,7 @@ return {
           },
           highlight = {
               enable = true,
-              additional_vim_regex_highlighting = { "php", "markdown", "rust", "python", "go"},
+              additional_vim_regex_highlighting = { "markdown", "python", "go", "sql"},
           },
           rainbow = {
               enable = true,
